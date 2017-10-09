@@ -1,1 +1,2 @@
 - Explain why react state using setState (Object assign ) instead of assign argument
+- Rate: ¤¤
